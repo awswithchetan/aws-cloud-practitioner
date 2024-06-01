@@ -1,4 +1,4 @@
-# aws-cloud-practitioner
+# Code samples for AWS Cloud Practioner course
 
 This repository contains all the code samples used in my AWS Cloud Practitioner course.
 
